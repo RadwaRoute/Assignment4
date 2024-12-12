@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C43 Backend Route\\Assignment 3 Group 2\\task2\\task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB8FE06-D495-442B-A006-D22ACCDE46F3}|task_1\\task_1.csproj|g:\\c43 backend route\\assignment 3 group 2\\task2\\task_1\\task_1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB8FE06-D495-442B-A006-D22ACCDE46F3}|task_1\\task_1.csproj|solutionrelative:task_1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB8FE06-D495-442B-A006-D22ACCDE46F3}|task_1\\task_1.csproj|g:\\c43 backend route\\assignment 3 group 2\\task2\\task_1\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB8FE06-D495-442B-A006-D22ACCDE46F3}|task_1\\task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "point.cs",
+              "DocumentMoniker": "G:\\C43 Backend Route\\Assignment 3 Group 2\\task2\\task_1\\task_1\\point.cs",
+              "RelativeDocumentMoniker": "task_1\\point.cs",
+              "ToolTip": "G:\\C43 Backend Route\\Assignment 3 Group 2\\task2\\task_1\\task_1\\point.cs",
+              "RelativeToolTip": "task_1\\point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:22:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C43 Backend Route\\Assignment 3 Group 2\\task2\\task_1\\task_1\\Program.cs",
+              "RelativeDocumentMoniker": "task_1\\Program.cs",
+              "ToolTip": "G:\\C43 Backend Route\\Assignment 3 Group 2\\task2\\task_1\\task_1\\Program.cs",
+              "RelativeToolTip": "task_1\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:34:13.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
